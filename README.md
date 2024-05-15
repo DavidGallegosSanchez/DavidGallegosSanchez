@@ -1,8 +1,18 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm David Gallegos from Granada (Spain), a self-motivated tech enthusiast and Senior full stack software developer.
+I'm <strong>David Gallegos</strong> from Granada (Spain), a self-motivated tech enthusiast and <em>Senior full stack software developer</em>.
 </p>
+
+<p >
+I am a passionate senior full-stack developer with a wealth of experience in building applications across various sectors such as banking, transport, communications, and ticketing platforms since 2014. My technical expertise includes developing robust solutions primarily using Java, Spring, Spring Boot, and TypeScript, alongside frontend frameworks like Angular. I am adept at working with both MVC models and microservices architectures, ensuring scalable and efficient application performance.
+  
+In addition to my development skills, I am well-versed in REST and SOAP web services, as well as BPM (Business Process Management) systems, allowing me to integrate complex business workflows seamlessly. My experience extends to project management, where I have successfully led teams to deliver high-quality projects on time and within budget.
+
+I am always eager to tackle new challenges and continuously improve my skills to stay ahead in the ever-evolving tech landscape. Let's connect and explore how we can collaborate to bring innovative solutions to life.
+</p>
+
+
 
 <h4 align="center">
 💻 <a href="https://es.linkedin.com/in/david-gallegos-s%C3%A1nchez-25386948">LinkedIn profile</a>
