@@ -34,4 +34,5 @@ My Tech Stacks
 ![Sonar](https://img.shields.io/badge/-sonar-red?style=flat-square&logo=sonar&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-Mysql-orange?style=flat-square&logo=Mysql&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white)
-
+![POSTMAN](https://img.shields.io/badge/postman-orange?style=flat-square&logo=postman&logoColor=white)
+![MORE](https://img.shields.io/badge/more...-red?style=flat-square)
