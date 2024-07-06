@@ -40,6 +40,7 @@ My Tech Stacks
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-Github-%FF23FF?style=flat-square&logo=github&logoColor=%FF23FF)
+![GitHub](https://img.shields.io/badge/-Gitlab-orange?style=flat-square&logo=gitlab&logoColor=%FF23FF)
 ![BitBucket](https://img.shields.io/badge/-bitbucket-%23F05032?style=flat-square&logo=bitbucket&logoColor=%23ffffff)
 ![Jenkins](https://img.shields.io/badge/-jenkins-%231572B6?style=flat-square&logo=jenkins&logoColor=white)
 ![Sonar](https://img.shields.io/badge/-sonar-red?style=flat-square&logo=sonar&logoColor=white)
